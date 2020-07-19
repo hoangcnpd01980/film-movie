@@ -1,0 +1,9 @@
+.submenu-catogories__list {
+  list-style-type: none;
+  padding: 10px 0;
+  transition: all 0.3s;
+}
+
+.submenu-catogories__list:hover {
+  background-color: rgba(0, 0, 0, 0.4);
+}
